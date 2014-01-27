@@ -64,7 +64,7 @@ Server Details
 
 To use this plugin after it has been compiled, simply load the plugin via the configuration file.
 
-`-loadplugin /path/to/TeamPhoenix.so,/path/to/TeamPhoenix.cfg`
+`-loadplugin /path/to/TeamPhoenix.so`
 
 License
 -------
