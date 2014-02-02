@@ -6,7 +6,7 @@ Based on Phoenix plugin, this plugin will reset the positions for all teams not 
 Authors
 ------
 
-- Vladimir "allejo" Jimenez
+Vladimir "allejo" Jimenez
 
 Compiling
 ---------
